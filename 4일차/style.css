@@ -1,0 +1,90 @@
+#menu{
+    margin: 0;
+    background-color: #775eee;
+}
+
+#menu ul{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    background: #775eee;
+    list-style-type: none;
+}
+
+#menu ul li{
+    padding: 15px;
+    cursor: pointer;
+}
+
+#menu ul li:nth-child(1) {
+    background-color: #302469;
+}
+
+#menu ul li a{
+    text-align: center;
+    text-decoration: none;
+    color: white;
+}
+
+#menu ul li a:hover {
+    background: #B4B4FF;
+    color: #413577;
+}
+
+.description {
+    font-size: 15px;
+    color: gray;
+}
+#first-head {
+    background-color:#648CFF;
+}
+#second-head {
+    background-color: #B4B4FF;
+}
+#third-head {
+    background-color: #B4B4FF;
+}
+#yodle {
+    color: blue;
+}
+h1 {
+    font-family: 'KOTRA_BOLD-Bold'
+}
+
+p {
+    font-family: 'GmarketSansMedium';
+}
+
+ul {
+    font-family: 'GmarketSansMedium';
+}
+
+h2 {
+    font-family: 'GongGothicMedium';
+}
+
+/*눈누 사이트: https://noonnu.cc/ ,코트라 볼드체 */
+@font-face {
+    font-family: 'KOTRA_BOLD-Bold';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_20-10-21@1.1/KOTRA_BOLD-Bold.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/*Gmarket Sans M*/
+@font-face {
+    font-family: 'GmarketSansMedium';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2001@1.1/GmarketSansMedium.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/*이사만루 Medium*/
+@font-face {
+    font-family: 'GongGothicMedium';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_20-10@1.0/GongGothicMedium.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}

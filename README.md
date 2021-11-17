@@ -18,3 +18,9 @@
 - 패딩(padding)과 마진(margin)
 - 다양한 단위(px, em, rem, %)
 - 네비게이션바 만들며 패딩, 마진 개념 복습
+
+### 📌 5일차 : 레이아웃 만들기
+- div태그와 span태그는 기본으로 설정되어 있는 디자인 속성이 거의 없다.
+- display 속성(block, inline, inline-block)
+- position 속성(static, relative, absolute, fixed)
+- 미니홈피 기본 레이아웃 

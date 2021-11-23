@@ -1,0 +1,103 @@
+.menu-container {
+    flex: 0.15;
+    margin-top: 30px;
+}
+
+.menu-container > a {
+    text-decoration: none;
+    color: white;
+    height: 1.5rem;
+    border-width: 5px;
+    border-color: rgb(66, 66, 66);
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    font-size: 13px;
+    background-color: #302469; 
+    text-align: center;
+    color: white;
+}
+
+.menu1{
+    height: 1.5rem;
+    border-width: 5px;
+    border-color: rgb(66, 66, 66);
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    font-size: 13px;
+    background-color: #302469; 
+    text-align: center;
+    color: white;
+}
+
+.menu2{
+    height: 1.5rem;
+    border-width: 5px;
+    border-color: rgb(66, 66, 66);
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    font-size: 13px;
+    background-color: #302469; 
+    text-align: center;
+    color: white;
+}
+
+.menu3{
+    height: 1.5rem;
+    border-width: 5px;
+    border-color: rgb(66, 66, 66);
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    font-size: 13px;
+    background-color: #302469; 
+    text-align: center;
+    color: white;
+}
+
+.menu4{
+    height: 1.5rem;
+    border-width: 5px;
+    border-color: rgb(66, 66, 66);
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    font-size: 13px;
+    background-color: #302469; 
+    text-align: center;
+    color: white;
+}
+
+.menu5{
+    height: 1.5rem;
+    border-width: 5px;
+    border-color: rgb(66, 66, 66);
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    font-size: 13px;
+    background-color: #302469; 
+    text-align: center;
+    color: white;
+}
+
+.menu1:hover {
+    background-color: white;
+    color: #302469;
+}
+
+.menu2:hover {
+    background-color: white;
+    color: #302469;
+}
+
+.menu3:hover {
+    background-color: white;
+    color: #302469;
+}
+
+.menu4:hover {
+    background-color: white;
+    color: #302469;
+}
+
+.menu5:hover {
+    background-color: white;
+    color: #302469;
+}

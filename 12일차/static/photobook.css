@@ -1,0 +1,23 @@
+.content-box {
+    display: flex;
+    flex-direction: column;
+    padding: 1rem;
+    overflow-x: auto;
+    overflow-y: scroll;
+} 
+
+.photo-title-box {
+    padding: 0.8em;
+    font-family: "NeoDunggeunmo";
+    padding-left: 1em;
+    background-color: #eeeeee;
+    color: black;
+}
+
+.photo {
+    /* margin-bottom: 30px; */
+    display: block;
+    margin: 0px auto 40px;
+    width: 400px;
+    height: 400px;
+}

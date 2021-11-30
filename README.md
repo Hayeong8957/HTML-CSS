@@ -98,6 +98,9 @@
 ```document.getElementById("text")```를 통해 text라는 id를 가진 요소를 찾아
 ```~.innerText = reader.result``` 코드로 해당 요소의 innerText, 즉 텍스트를 reader가 읽은 결과 텍스트로 대체한다.
 
+</div>
+</details>
+
 ### 📌 13일차 : 미니홈피 방명록 만들기
 - 이미지를 넣는 또 다른 방법
   - ```img``` 태그가 아닌 ```background-image```라는 css 속성을 이용
@@ -109,5 +112,3 @@
 - 게시판 페이지 추가
 - github pages 활용해 웹사이트 배포
   - https://사용자명.github.io/repository이름/접근하고싶은파일이름
-</div>
-</details>

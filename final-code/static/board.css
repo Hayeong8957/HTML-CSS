@@ -1,0 +1,55 @@
+.content-box {
+    display: flex;
+    flex-direction: column;
+    padding: 1rem;
+    overflow-x: auto;
+    overflow-y: scroll;
+} 
+
+.board-title{
+    font-size: 15px;
+    font-weight: 700;
+}
+
+.info-box {
+    border-style: solid none dotted none;
+    border-width: 1px;
+    border-color: gray;
+    font-size: 11px;
+    margin: 5px 0px 5px 0px;
+    padding: 4px 0px 4px 0px;
+    display: flex;
+    flex-direction: row;
+}
+
+.writer {
+    flex: 1;
+}
+
+.date{
+    flex: 0.3;
+    margin-right: 0.5rem;
+    text-align: right;
+    font-weight: 100;
+}
+
+.board-txt{
+    font-size: 12px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.mainimg{
+    width: 300px;
+    height: 500px;
+    display: block;
+    margin: 0px auto;
+}
+
+.bottom_line{
+    border: 0px;
+    height: 0.5px;
+    background-color: gray;
+    margin-bottom: 20px;
+}

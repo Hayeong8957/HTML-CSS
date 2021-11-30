@@ -111,4 +111,4 @@
 ### 📌 final-code
 - 게시판 페이지 추가
 - github pages 활용해 웹사이트 배포
-  - https://사용자명.github.io/repository이름/접근하고싶은파일이름
+- 👉 [결과물 바로가기](https://hayeong8957.github.io/HTML-CSS/final-code/home.html)
